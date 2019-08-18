@@ -1,0 +1,1 @@
+[{'label': ['Age_above_50', 'Emotion_Neutral', 'E_Indian', 'G_Male'], 'notes': '', 'points': [{'x': 0.624450307827616, 'y': 0.14141414141414102}, {'x': 0.67985927880387, 'y': 0.264309764309764}], 'imageWidth': 505, 'imageHeight': 264}]

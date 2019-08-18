@@ -1,0 +1,1 @@
+[{'label': ['Emotion_Happy', 'Age_30_40', 'E_White', 'G_ Female'], 'notes': '', 'points': [{'x': 0.234828496042216, 'y': 0.07654723127035801}, {'x': 0.46437994722955106, 'y': 0.631921824104234}], 'imageWidth': 620, 'imageHeight': 335}]

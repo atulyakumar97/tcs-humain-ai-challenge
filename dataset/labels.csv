@@ -1,0 +1,196 @@
+imagefile,emotion,age,ethnicity,gender
+1.jpeg,Emotion_Happy,Age_below20,E_White,G_Male
+2.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+3.jpeg,Emotion_Happy,Age_20_30,E_Hispanic,G_ Female
+4.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+5.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+6.png,Emotion_Neutral,Age_20_30,E_Asian,G_ Female
+7.png,Emotion_Neutral,Age_below20,E_White,G_ Female
+8.png,Emotion_Neutral,Age_20_30,E_White,G_ Female
+9.png,Emotion_Neutral,Age_20_30,E_Asian,G_ Female
+10.jpeg,Emotion_Neutral,Age_above_50,E_White,G_ Female
+11.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+12.jpeg,Emotion_Neutral,Age_above_50,E_White,G_Male
+13.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+14.jpeg,Emotion_Neutral,Age_30_40,E_Black,G_Male
+15.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+16.jpeg,Emotion_Happy,Age_20_30,G_ Female,E_White
+17.jpeg,Emotion_Happy,Age_30_40,E_Black,G_Male
+18.jpeg,Emotion_Neutral,Age_20_30,E_Asian,G_Male
+19.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+20.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+21.jpeg,Emotion_Neutral,Age_above_50,E_White,G_Male
+22.jpeg,Not_Face,Age_above_50,E_White,G_Male
+23.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+24.jpeg,Emotion_Sad,Age_30_40,E_White,G_Male
+25.png,Emotion_Neutral,Age_40_50,E_White,G_ Female
+26.png,Emotion_Neutral,Age_20_30,E_White,G_ Female
+27.png,Emotion_Neutral,Age_30_40,G_Male,E_Black
+28.jpeg,Emotion_Happy,Age_30_40,E_Asian,G_Male
+29.png,Emotion_Happy,Age_above_50,G_Male,E_White
+30.jpeg,Emotion_Neutral,Age_below20,E_White,G_ Female
+31.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+32.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+33.jpeg,Emotion_Angry,Age_20_30,G_ Female,E_White
+34.jpeg,Emotion_Neutral,Age_20_30,E_White,G_Male
+35.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+36.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+37.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+38.jpeg,Emotion_Neutral,Age_below20,G_Male,E_White
+39.jpeg,Emotion_Angry,Age_30_40,E_Hispanic,G_Male
+40.jpeg,Emotion_Neutral,Age_40_50,E_White,G_Male
+41.png,Emotion_Happy,Age_30_40,E_Black,G_Male
+42.png,Emotion_Neutral,Age_20_30,E_White,G_Male
+43.png,Emotion_Neutral,Age_30_40,E_White,G_Male
+44.jpeg,Emotion_Happy,Age_below20,E_White,G_Male
+45.jpeg,Emotion_Happy,Age_below20,E_White,G_ Female
+46.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+47.jpeg,Emotion_Neutral,Age_20_30,E_Asian,G_Male
+48.jpeg,Emotion_Happy,Age_30_40,E_White,G_Male
+49.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+50.jpeg,Emotion_Happy,Age_below20,E_White,G_ Female
+51.jpeg,Emotion_Happy,Age_40_50,E_White,G_ Female
+52.jpeg,Emotion_Neutral,Age_20_30,E_Asian,G_ Female
+53.jpeg,Emotion_Neutral,Age_30_40,E_Arab,G_ Female
+54.jpeg,Emotion_Happy,Age_above_50,E_White,G_ Female
+55.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+56.jpeg,Emotion_Happy,Age_30_40,E_White,G_Male
+57.jpeg,Emotion_Happy,Age_40_50,E_White,G_Male
+58.jpeg,Emotion_Happy,Age_below20,E_White,G_ Female
+59.jpeg,Emotion_Happy,Age_30_40,E_White,G_ Female
+60.jpeg,Emotion_Neutral,Age_30_40,E_White,G_ Female
+61.jpeg,Emotion_Neutral,Age_20_30,E_Black,G_ Female
+62.jpeg,Emotion_Angry,Age_20_30,E_White,G_Male
+63.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+64.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+65.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+66.jpeg,Emotion_Angry,Age_30_40,E_White,G_Male
+67.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_ Female
+68.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+69.jpeg,Emotion_Happy,Age_30_40,E_White,G_ Female
+70.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_Male
+71.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_Male
+72.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_ Female
+73.png,Emotion_Happy,Age_20_30,E_Indian,G_ Female
+74.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+75.jpeg,Emotion_Sad,Age_20_30,E_Black,G_Male
+76.jpeg,Emotion_Happy,Age_40_50,E_White,G_Male
+77.jpeg,Emotion_Neutral,Age_below20,Age_30_40,Age_above_50
+78.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+79.jpeg,Emotion_Neutral,Age_20_30,E_White,G_Male
+80.jpeg,Emotion_Neutral,Age_30_40,E_White,G_ Female
+81.jpeg,Emotion_Neutral,Age_20_30,E_White,G_Male
+82.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_Male
+83.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+84.jpeg,Emotion_Neutral,Age_below20,E_Asian,G_Male
+85.jpeg,Emotion_Neutral,Age_30_40,E_White,G_ Female
+86.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+87.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+88.jpeg,Emotion_Sad,Age_20_30,E_White,G_Male
+89.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+90.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+91.jpeg,Emotion_Neutral,Age_20_30,E_Asian,G_Male
+92.jpeg,Emotion_Angry,Age_30_40,E_Hispanic,G_Male
+93.jpeg,Emotion_Happy,Age_20_30,E_Hispanic,G_ Female
+94.jpeg,Emotion_Neutral,Age_above_50,E_White,G_Male
+95.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+96.jpeg,Emotion_Neutral,Age_below20,E_Asian,G_Male
+97.jpeg,Emotion_Neutral,Age_20_30,E_Asian,G_Male
+98.jpeg,Emotion_Sad,Age_20_30,E_Indian,G_ Female
+99.jpeg,Emotion_Sad,Age_20_30,E_Indian,G_Male
+100.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_Male
+101.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_Male
+102.jpeg,Emotion_Happy,Age_20_30,E_Hispanic,G_ Female
+103.jpeg,Emotion_Happy,Age_20_30,E_Black,G_ Female
+104.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+105.jpeg,Emotion_Happy,Age_20_30,E_Asian,G_ Female
+106.jpeg,Emotion_Happy,Age_20_30,E_Asian,G_ Female
+107.jpeg,Emotion_Neutral,Age_20_30,G_ Female,E_Asian
+108.jpeg,Emotion_Neutral,Age_above_50,E_Asian,G_ Female
+109.jpeg,Emotion_Happy,Age_30_40,E_White,G_ Female
+110.jpeg,Emotion_Happy,Age_30_40,E_Black,G_ Female
+111.jpeg,Age_30_40,Emotion_Happy,E_White,G_ Female
+112.jpeg,Emotion_Happy,Age_below20,E_White,G_ Female
+113.jpeg,Emotion_Happy,Age_30_40,E_Black,G_Male
+114.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+115.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+116.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+117.jpeg,Emotion_Neutral,Age_20_30,E_Asian,G_ Female
+118.jpeg,Emotion_Happy,Age_30_40,E_Black,G_ Female
+119.jpeg,Emotion_Neutral,Age_20_30,E_Black,G_Male
+120.jpeg,Emotion_Neutral,Age_20_30,E_Hispanic,G_Male
+121.jpeg,Emotion_Neutral,Age_20_30,E_Hispanic,E_Arab
+122.jpeg,Emotion_Neutral,Age_20_30,E_Black,G_ Female
+123.jpeg,Emotion_Neutral,Age_40_50,E_Asian,G_Male
+124.jpeg,Emotion_Happy,Age_40_50,E_White,G_Male
+125.jpeg,Emotion_Neutral,Age_20_30,E_Black,G_ Female
+126.jpeg,Emotion_Neutral,Age_20_30,E_Black,G_ Female
+127.jpeg,Emotion_Neutral,Age_20_30,E_White,G_Male
+128.jpeg,Emotion_Neutral,Age_30_40,E_Black,G_ Female
+129.jpeg,Emotion_Neutral,Age_20_30,E_Black,G_ Female
+130.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+131.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+132.jpeg,Emotion_Neutral,Age_30_40,E_White,G_Male
+133.jpeg,Emotion_Neutral,Age_20_30,G_ Female,E_White
+134.jpeg,Emotion_Sad,Age_20_30,E_White,G_ Female
+135.jpeg,Emotion_Neutral,Age_20_30,E_Black,G_ Female
+136.jpeg,Emotion_Neutral,Age_30_40,E_Black,G_Male
+137.jpeg,Emotion_Neutral,Age_below20,G_ Female,E_Black
+138.jpeg,Emotion_Neutral,Age_below20,E_White,G_ Female
+139.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+140.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+141.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+142.jpeg,Emotion_Neutral,Age_30_40,E_White,G_ Female
+143.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+144.jpeg,Emotion_Happy,Age_30_40,E_White,G_ Female
+145.jpeg,Emotion_Happy,Age_30_40,E_White,G_ Female
+146.jpeg,Emotion_Neutral,Age_40_50,E_White,G_ Female
+147.jpeg,Emotion_Neutral,Age_40_50,E_White,G_Male
+148.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_Male
+149.jpeg,Emotion_Neutral,Age_below20,E_Indian,G_ Female
+150.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_ Female
+151.jpeg,Emotion_Sad,Age_20_30,E_Indian,G_Male
+152.jpeg,Emotion_Happy,Age_30_40,E_Indian,G_Male
+153.jpeg,Emotion_Neutral,Age_40_50,E_Indian,G_Male
+154.jpeg,Emotion_Neutral,Age_above_50,E_Indian,G_Male
+155.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_Male
+156.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_ Female
+157.jpeg,Age_above_50,Emotion_Neutral,E_Indian,G_Male
+158.jpeg,Emotion_Happy,Age_20_30,E_Indian,G_Male
+159.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_ Female
+160.jpeg,Emotion_Sad,Age_above_50,E_Indian,G_ Female
+161.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_Male
+162.jpeg,Emotion_Neutral,Age_below20,E_Indian,G_Male
+163.jpeg,Emotion_Neutral,Age_20_30,E_White,G_Male
+164.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_ Female
+165.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_Male
+166.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_ Female
+167.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_ Female
+168.jpeg,Emotion_Neutral,Age_40_50,E_Indian,G_ Female
+169.jpeg,Emotion_Neutral,Age_40_50,E_Indian,G_Male
+170.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_ Female
+171.jpeg,Emotion_Happy,Age_40_50,E_Indian,G_Male
+172.jpeg,Emotion_Happy,Age_30_40,E_Indian,G_Male
+173.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_Male
+174.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_Male
+175.jpeg,Emotion_Angry,Age_40_50,E_Indian,G_ Female
+176.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_Male
+177.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_Male
+178.jpeg,Emotion_Neutral,Age_40_50,E_Indian,G_Male
+179.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_ Female
+180.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_ Female
+181.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+182.jpeg,Emotion_Happy,Age_above_50,E_White,G_ Female
+183.jpeg,Emotion_Happy,Age_20_30,E_White,G_ Female
+184.jpeg,Emotion_Sad,Age_30_40,E_Indian,G_ Female
+185.jpeg,Emotion_Neutral,Age_below20,E_Indian,G_ Female
+186.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_Male
+187.jpeg,Emotion_Neutral,Age_above_50,E_Indian,G_Male
+188.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_Male
+189.jpeg,Emotion_Neutral,Age_30_40,E_Indian,G_ Female
+190.jpeg,Emotion_Neutral,Age_20_30,E_Indian,G_ Female
+191.jpeg,Emotion_Neutral,Age_20_30,E_White,G_ Female
+192.jpeg,Emotion_Happy,Age_30_40,E_Black,G_Male
+193.jpeg,Emotion_Happy,Age_30_40,E_Black,G_ Female
+194.jpeg,Emotion_Happy,Age_below20,E_White,G_Male
+195.jpeg,Emotion_Happy,Age_above_50,E_White,G_Male
