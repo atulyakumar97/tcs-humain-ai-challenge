@@ -1,2 +1,4 @@
 vgg-face-keras.h5
 resnet50.h5
+vgg_face_weights.h5
+vggface2_Keras.h5
